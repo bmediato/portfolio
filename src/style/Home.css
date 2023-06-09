@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.home-container {
+    background-image: url(/src/image/computer-and-coffee.png);
+    background-color: rgba(0, 0, 0, 0.76);
+    background-blend-mode: darken;
+    height: 100vh;  
+    padding-top: 50px;
+}
+
+.home-letter {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.container-sec {
+    display: flex;
+    margin-left: 5%;
+    height: 90vh;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.full {
+    font-size: 80px;
+
+}
+
+span {
+    background-color: #c4343c;
+    border-radius: 15%;
+}
+
+.rede-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85vh;
+    padding-left: 20px;
+    /* border: 1px solid white; */
+}
+
+.linkedin {
+    width: 80px;
+    padding-left: 50px;
+}
+
+.github {
+    width: 68px;
+}
+
+.paragrafos {
+    text-align: center;
+    font-size: 30px;
+    width: 80vh;
+}

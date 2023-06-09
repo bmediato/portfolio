@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.section-hab {
+  background-color: #020202f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 50px;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.div-hab {
+  border: 1px solid white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 30px;
+  width: 150vh;
+  border-radius: 20px;
+  box-shadow: 3px 3px 6px rgb(83, 83, 83);
+  overflow: hidden;
+  background-image: url(../image/teclado.png);
+}
+
+.img-hab {
+  width: 100px;
+}
+
+.hab {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 40px;
+}

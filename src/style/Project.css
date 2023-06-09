@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.section-pro {
+  background-color: #191919;
+  color: white;
+}
+
+.title-pro {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 40px;
+}
+
+.container-pro {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid white;
+  height: 100vh; ;
+}
