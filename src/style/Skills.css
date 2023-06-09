@@ -20,7 +20,7 @@
   border-radius: 20px;
   box-shadow: 3px 3px 6px rgb(83, 83, 83);
   overflow: hidden;
-  background-image: url(../image/teclado.png);
+  background-color: #e0e0e0; 
 }
 
 .img-hab {

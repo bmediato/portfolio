@@ -2,7 +2,7 @@
 
 .section-pro {
   background-color: #191919;
-  color: white;
+  /* color: white; */
 }
 
 .title-pro {
@@ -10,11 +10,68 @@
   text-align: center;
   padding-top: 50px;
   font-size: 40px;
+  color: white;
 }
+
 
 .container-pro {
   display: flex;
   flex-wrap: wrap;
-  border: 1px solid white;
-  height: 100vh; ;
+  justify-content: center;
+}
+
+.card {
+  align-content: center;
+  align-items: center;
+  background: #333333;
+  border: 2px solid white;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: column nowrap;
+  height: 486px;
+  justify-content: space-evenly;
+  margin: 35px 12px 5px;
+  padding: 0;
+  width: 19rem;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 5px #c4343c;
+
+}
+
+.card-img-top {
+  height: auto;
+  max-height: 286px;
+  width: auto;
+}
+
+.card-body {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  justify-content: center;
+  line-height: 28px;
+  padding: 0;
+}
+
+.btn-primary {
+  background-color: white;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 2pc;
+  font-size: 18px;
+  color: #c4343c;
+}
+
+.card-text {
+  padding: 5px;
+  font-size: 20px;
 }
