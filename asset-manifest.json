@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7bfa9b71.css",
-    "main.js": "/portfolio/static/js/main.1f77bbcd.js",
+    "main.css": "/portfolio/static/css/main.c73e8aec.css",
+    "main.js": "/portfolio/static/js/main.ac923589.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/be.png": "/portfolio/static/media/be.93a61fc274f6f25c1855.png",
     "static/media/computer-and-coffee.png": "/portfolio/static/media/computer-and-coffee.9d96f6773c2f2bab7f39.png",
-    "static/media/teclado.png": "/portfolio/static/media/teclado.3c566a3bbe7e0b509aa1.png",
+    "static/media/livro-de-receitas.png": "/portfolio/static/media/livro-de-receitas.c47f82fd5a912709c09e.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.1311ab36b4a3e1dea126.png",
     "static/media/logo2.png": "/portfolio/static/media/logo2.7ac05d885f7ab7d6db44.png",
+    "static/media/entregador.png": "/portfolio/static/media/entregador.477a02d868c0dc11b2f5.png",
+    "static/media/trofeu-de-futebol.png": "/portfolio/static/media/trofeu-de-futebol.4864a71e20c590a61a9a.png",
     "static/media/logo-python-1024.png": "/portfolio/static/media/logo-python-1024.774c2a68228794eb14dc.png",
     "static/media/logo-node-js-1024.png": "/portfolio/static/media/logo-node-js-1024.88c396f8b2e63bfa337e.png",
     "index.html": "/portfolio/index.html",
-    "main.7bfa9b71.css.map": "/portfolio/static/css/main.7bfa9b71.css.map",
-    "main.1f77bbcd.js.map": "/portfolio/static/js/main.1f77bbcd.js.map",
+    "main.c73e8aec.css.map": "/portfolio/static/css/main.c73e8aec.css.map",
+    "main.ac923589.js.map": "/portfolio/static/js/main.ac923589.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bfa9b71.css",
-    "static/js/main.1f77bbcd.js"
+    "static/css/main.c73e8aec.css",
+    "static/js/main.ac923589.js"
   ]
 }
